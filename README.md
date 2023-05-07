@@ -1,7 +1,7 @@
 # ARBusinessCard_Practice
 Unity; AR
 
-Novice SE practicing with the Unity Engine to create an Augmented reality Business Card.
+Novice SE practicing with the Unity Engine to create an augmented reality app.
 
 Use the image "WT_ARBusinessCardMarker" as the marker for the AR app. 
 
