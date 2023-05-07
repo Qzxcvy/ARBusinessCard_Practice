@@ -5,7 +5,7 @@ Novice SE practicing with the Unity Engine to create an Augmented reality Busine
 
 Use the image "WT_ARBusinessCardMarker" as the marker for the AR app. 
 
-_**(I do not create nor own this image; all credit goes to the artist.)**_
+_**(I did not create nor own this image; all credit goes to the artist.)**_
 
 Access to files with this link:
 https://drive.google.com/file/d/1oCN93W8djbzWhgbeZQ8YZqNWlISh4WwX/view?usp=sharing
